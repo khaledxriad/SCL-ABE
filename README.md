@@ -1,7 +1,9 @@
-# SCL-ABE: code and data
+# SCL-ABE: Adaptively Secure Lattice Attribute-Based Encryption with Sub-Linear Ciphertexts
 
-Artifacts for the paper *SCL-ABE: Adaptively Secure Lattice Attribute-Based Encryption with Sub-Linear Ciphertexts* (Khaled Riad, King Faisal University).
-Repository: [GitHub Link]. Archived release: Zenodo [Zenodo URL].
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24214538.svg)](https://doi.org/10.5281/zenodo.24214538)
+
+Code and data for the paper *SCL-ABE: Adaptively Secure Lattice Attribute-Based Encryption with Sub-Linear Ciphertexts* (Khaled Riad, King Faisal University).
+Repository: [github.com/khaledxriad/SCL-ABE](https://github.com/khaledxriad/SCL-ABE). Archived release (v1.0.0): Zenodo, [doi:10.5281/zenodo.24214538](https://doi.org/10.5281/zenodo.24214538).
 
 This repository holds the code, the stored data, and the independent check of every reported number.
 The manuscript and its TikZ figure sources are not part of this repository.
@@ -37,3 +39,12 @@ Timings depend on the machine; the paper's timings were measured on one core of 
 ## License
 
 MIT (see `LICENSE`).
+
+
+## How to cite
+
+If you use this code or data, please cite the archived release:
+
+Khaled Riad. *SCL-ABE: Adaptively Secure Lattice Attribute-Based Encryption with Sub-Linear Ciphertexts* (v1.0.0). Zenodo, 2026. https://doi.org/10.5281/zenodo.24214538
+
+A citation for the paper will be added once it is published.

@@ -1,0 +1,7 @@
+{
+  "title": "SCL-ABE: code and data for adaptively secure lattice attribute-based encryption with sub-linear ciphertexts",
+  "creators": [{"name": "Riad, Khaled", "affiliation": "King Faisal University, Al-Ahsa, Saudi Arabia"}],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["lattice-based cryptography", "attribute-based encryption", "learning with errors", "subset cover"]
+}
